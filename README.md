@@ -97,12 +97,10 @@ EGFR (epidermal growth factor receptor) mutations are a key driver of tumorigene
 - COSMIC: https://cancer.sanger.ac.uk/cosmic
 - CIViC: https://civicdb.org/
 
-## License
-
-MIT License
+## IMPORTANT
 
 This tool is intended for research and educational use only. It is not a substitute for clinical decision-making or diagnostic tools.
 
 ## Acknowledgments
 
-Developed during the Jackson Laboratory Summer Cancer Genomics Program. Inspired by translational research in EGFR-targeted therapy resistance and bioinformatics-driven precision oncology.
+Developed during the Jackson Laboratory Summer Cancer Genomics Program as a personal project. Inspired by translational research in EGFR-targeted therapy resistance and bioinformatics-driven precision oncology.
